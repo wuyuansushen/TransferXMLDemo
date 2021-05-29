@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Class>
+  <student>
+    <First>Svetlana</First>
+    <Last>Omelchenko</Last>
+    <Scores>97,92,81,60</Scores>
+  </student>
+  <student>
+    <First>Claire</First>
+    <Last>O’Donnell</Last>
+    <Scores>75,84,91,39</Scores>
+  </student>
+  <student>
+    <First>Sven</First>
+    <Last>Mortensen</Last>
+    <Scores>88,94,65,91</Scores>
+  </student>
+</Class>
